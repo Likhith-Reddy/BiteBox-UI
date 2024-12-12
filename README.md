@@ -19,6 +19,15 @@ BiteBox is a sleek, modern website designed to showcase a food delivery subscrip
 ## Installation
 
 To run this project locally:
+1) Clone this repository:
+   bash
+   git clone https://github.com/your-username/bitebox.git
+   cd bitebox
+   open index.html
+
+## Note on Images on the ReadMe
+
+Below are previews of the BiteBox website's user interface. The images have been slightly zoomed out to provide a comprehensive view of the design elements and layout.
 
 This is how UI:
 ![image](https://github.com/user-attachments/assets/3908dade-5e48-4404-b5ce-e657f3bda410)
